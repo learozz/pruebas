@@ -2,7 +2,7 @@
 title: "Does sunshine make people happy?"
 author: "F. Sanchez-Rodriguez"
 date: "Thursday, 17 November 2016"
-output: word_document
+output: github_document
 bibliography: crossref.bib
 ---
 
